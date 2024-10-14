@@ -1,3 +1,5 @@
+⚠️ Repo just for using realtime conversation forked from [Realtime API](https://github.com/openai/openai-realtime-console)
+
 # OpenAI Realtime Console
 
 The OpenAI Realtime Console is intended as an inspector and interactive API reference
